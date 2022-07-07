@@ -1,0 +1,16 @@
+.login-container {
+  display: flex;
+  /* padding-top: 15%; */
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  /* background-image: url("../assets"); */
+}
+
+.form {
+  width: 450px;
+  margin: 24px;
+  min-width: 300px;
+  text-align: left;
+  display: block;
+}
